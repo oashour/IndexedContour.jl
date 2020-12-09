@@ -1,0 +1,4 @@
+name = "IndexedContour"
+uuid = "72820580-16a3-4c0f-8f1c-15fe468b78e9"
+authors = ["Omar Ashour <omar.ashour22@gmail.com>"]
+version = "0.1.0"
