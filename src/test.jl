@@ -1,5 +1,5 @@
-using Contour # hide
 using Plots
+using IndexedContour
 
 x = collect(-4:0.01:3) # hide
 y = collect(-5:0.01:5) # hide

@@ -1,4 +1,4 @@
-module Contour
+module IndexedContour
 
 using StaticArrays
 

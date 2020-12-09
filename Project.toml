@@ -2,3 +2,6 @@ name = "IndexedContour"
 uuid = "72820580-16a3-4c0f-8f1c-15fe468b78e9"
 authors = ["Omar Ashour <omar.ashour22@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
